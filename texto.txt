@@ -1,0 +1,62 @@
+Prazer, chamo-me Marcos Wyliam e sou desenvolvedor backend.
+
+Antes de falar da linguagnes de programação que utilizo ou minhas habilidades ou competências, vou contar minha jornada como programador até o breve
+momento.
+
+Estou a mais de 4 anos com programação, desde criando projetos de mais simples, como uma função que soma dois valores ou até uma interação via terminal
+com o usuário. 
+
+A programação foi e é uma das jornadas mais bem diferentes com uma mistura de problemas para resolver, problemas resolvidos e mais novos problemas.
+O círculo para melhorar na programação não pode se resumir em um único projeto, único código ou a resolução de uma tarefa, é continuar buscar por ser melhor.
+Lógico de acordo com a capacidade e compostura para enfrentar os desafios, que são muitos kkkk.
+
+A linguagem de programação que mais utilizo é python, por ser tanto a primeiro que tive contato com pelas oportunidades que me permitiu utilizar, desde para 
+absorver a lógica de programação, como Estruturas de dados, Programação Orientada a Objetos ou módulos mais específicos como webscraping, como as ferramente
+BeatifulSoup. 
+
+Assim como, fiz projetos focadas em resolução de exercícios no codewars, como mais de 100 arquivos de código, até projetos mais elaborados com foco em construir
+um designer mais refinado de construção de pastas, comentários, compreensão da biblioteca e aplicação prática do projeto.
+
+Assim, o foco principal é estabelecimento de experiência prática de projetos envolvedos aplicações que precisam de APIs, integrações com outros sistemas,
+aporte de escala para um número maciço de clientes e garantia de projeto que seja sustentável a longo prazo, tanto do por vista do construção do código, 
+como daqueles que fazem parte, pois o trabalho em equipe é um dos pilares para o fortalecimento de algo sustentavel para crescimento e manutenção de contenção de risco.
+
+Stack:
+
+Python
+Postgres
+Mysql
+Redis
+FastAPI
+Flask
+Celery
+
+Melhores Projetos Atualmente:
+
+https://github.com/marcosdary/graphql
+
+Este projeto é sem dúvida até o momento aquele que possui a únião de diversas noções de programação, pois aprendi a ideia sobre cache, assincrono,
+graphql, que sem dúvidas o último é uma das coisas que são mais impressionantes que aprendi, pois a ideia de estrutura a resposta e requisição por 
+meio "função" é sem dúvida um dos aspectos mais interessantes sobre ele, assim como a mandar as respostas que deseja receber, pois isso torna a aplicação
+mais rápida e focada em garantir a entregar de informações de maneira limpa para o frontend
+
+
+https://github.com/marcosdary/Codewars
+
+Este projeto demostrar que nenhum começo é fácil e tudo demanda muito tempo de prática. É um dos que mais que sinto orgulho. 
+Cada começo é processo de errar, corrigir e melhorar. Cada linha de código é forma de buscar aquilo que seja benéfico para resolver o problemas, pois
+apartir daí se buscar aplicar melhorias de performance e organização.
+
+https://github.com/marcosdary/coding-in-c
+
+Todos começam de algum lugar, cada programador tem seu código em C. 
+
+https://github.com/marcosdary/CrudSimples
+
+Projeto com o famoso crud (INSERT, DELETE, UPDATE, GET) com base no banco de dados MySQL. Ótimo projeto, mesmo com sua diferenças e muitas melhorias
+serem feitas.
+
+Portifolio
+
+https://marcos-wyliam.horizontecnology.com/
+
