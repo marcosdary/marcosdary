@@ -1,16 +1,16 @@
-# Olá, eu sou Marcos Wyliam
+# Hi, I'm Marcos Wyliam
 
-Sou desenvolvedor backend e estou há mais de 4 anos estudando e construindo projetos com programação. Minha trajetória começou com exercícios simples, interações via terminal e lógica de programação, e ao longo do tempo evoluiu para projetos com foco em APIs, integrações, organização de código, escalabilidade e sustentabilidade a longo prazo.
+I am a backend developer with more than 4 years of experience studying programming and building projects. My journey started with simple exercises, terminal interactions, and programming logic, and over time it evolved into projects focused on APIs, integrations, code organization, scalability, and long-term sustainability.
 
-A programação, para mim, é uma jornada contínua de aprendizado. Sempre existe um novo problema para resolver, uma melhoria para aplicar e uma forma melhor de construir soluções. Busco crescer de forma consistente, respeitando o processo, enfrentando desafios e valorizando o trabalho em equipe como parte essencial de qualquer projeto sólido.
+To me, programming is a continuous learning journey. There is always a new problem to solve, an improvement to apply, and a better way to build solutions. I aim to keep growing consistently, respecting the process, taking on challenges, and valuing teamwork as an essential part of building solid projects.
 
-## Sobre mim
+## About Me
 
-- Foco principal em desenvolvimento backend
-- Experiência prática com APIs e integração entre sistemas
-- Interesse em construir aplicações escaláveis e sustentáveis
-- Valorização de código organizado, legível e de fácil manutenção
-- Aprendizado contínuo por meio de prática, projetos reais e resolução de problemas
+- Main focus on backend development
+- Practical experience with APIs and system integrations
+- Interest in building scalable and sustainable applications
+- Strong appreciation for clean, readable, and maintainable code
+- Continuous learning through practice, real projects, and problem-solving
 
 ## Stack
 
@@ -22,44 +22,44 @@ A programação, para mim, é uma jornada contínua de aprendizado. Sempre exist
 - Flask
 - Celery
 
-## Minha jornada com Python
+## My Journey with Python
 
-Python é a linguagem que mais utilizo e também foi uma das primeiras com que tive contato. Com ela, desenvolvi minha base em lógica de programação, estruturas de dados, programação orientada a objetos e também explorei bibliotecas e módulos específicos, como web scraping com BeautifulSoup.
+Python is the language I use the most, and it was also one of the first languages I worked with. Through it, I built my foundation in programming logic, data structures, object-oriented programming, and also explored more specific tools such as web scraping with BeautifulSoup.
 
-Ao longo desse processo, passei por projetos de diferentes níveis de complexidade: desde exercícios em plataformas como Codewars até aplicações mais elaboradas, com mais atenção à estrutura de pastas, organização do código, entendimento de bibliotecas e aplicação prática de conceitos importantes no desenvolvimento de software.
+Throughout this process, I worked on projects with different levels of complexity, from problem-solving exercises on platforms like Codewars to more elaborate applications with greater attention to folder structure, code organization, library understanding, and the practical use of important software development concepts.
 
-## Projetos em destaque
+## Featured Projects
 
 ### [GraphQL](https://github.com/marcosdary/graphql)
 
-Esse é, até o momento, um dos projetos que mais reúne aprendizados importantes da minha jornada. Nele, aprofundei conhecimentos em cache, programação assíncrona e GraphQL.
+So far, this is one of the projects that brings together the most important lessons from my journey. In it, I deepened my knowledge of caching, asynchronous programming, and GraphQL.
 
-GraphQL foi uma das tecnologias que mais me chamou atenção pela forma como organiza requisições e respostas, permitindo que o cliente receba exatamente os dados de que precisa. Isso contribui para aplicações mais eficientes e para uma entrega de informações mais limpa ao frontend.
+GraphQL is one of the technologies that impressed me the most because of the way it structures requests and responses, allowing the client to receive exactly the data it needs. This contributes to more efficient applications and cleaner data delivery to the frontend.
 
 ### [Codewars](https://github.com/marcosdary/Codewars)
 
-Esse projeto representa muito bem a importância da prática constante. Com mais de 100 arquivos de código, ele mostra que nenhum começo é fácil e que evolução vem com repetição, erro, correção e melhoria contínua.
+This project represents the importance of consistent practice very well. With more than 100 code files, it shows that no beginning is easy and that growth comes from repetition, mistakes, corrections, and continuous improvement.
 
-É um dos projetos de que mais me orgulho, porque reflete disciplina, persistência e a busca por soluções cada vez mais organizadas e performáticas.
+It is one of the projects I am most proud of because it reflects discipline, persistence, and the search for increasingly organized and performant solutions.
 
 ### [Coding in C](https://github.com/marcosdary/coding-in-c)
 
-Todo programador começa de algum lugar, e esse projeto faz parte da minha base. Ele representa esse momento de construção inicial, experimentação e aprendizado com a linguagem C.
+Every programmer starts somewhere, and this project is part of my foundation. It represents that early stage of building, experimenting, and learning with the C language.
 
 ### [CrudSimples](https://github.com/marcosdary/CrudSimples)
 
-Projeto focado na implementação de operações CRUD (`INSERT`, `DELETE`, `UPDATE`, `GET`) com MySQL. Foi uma experiência importante para fortalecer fundamentos de banco de dados e construção de aplicações com operações essenciais do dia a dia.
+This project is focused on implementing CRUD operations (`INSERT`, `DELETE`, `UPDATE`, `GET`) using MySQL. It was an important experience for strengthening database fundamentals and building applications around essential day-to-day operations.
 
-## Objetivos profissionais
+## Professional Goals
 
-Meu foco é seguir evoluindo em projetos que envolvam:
+My focus is to keep growing through projects involving:
 
-- desenvolvimento de APIs
-- integrações com outros sistemas
-- aplicações com potencial de escala
-- arquitetura sustentável a longo prazo
-- colaboração em equipe para construção de soluções robustas
+- API development
+- Integrations with other systems
+- Applications with scaling potential
+- Sustainable long-term architecture
+- Team collaboration to build robust solutions
 
-## Portfólio
+## Portfolio
 
-- [Acessar portfólio](https://marcos-wyliam.horizontecnology.com/)
+- [View portfolio](https://marcos-wyliam.horizontecnology.com/)
