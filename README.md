@@ -1,65 +1,87 @@
-# Hi, I'm Marcos Wyliam
+# Oi, eu sou o Marcos Wyliam 👋
 
-I am a backend developer with more than 4 years of experience studying programming and building projects. My journey started with simple exercises, terminal interactions, and programming logic, and over time it evolved into projects focused on APIs, integrations, code organization, scalability, and long-term sustainability.
+### Desenvolvedor Backend
 
-To me, programming is a continuous learning journey. There is always a new problem to solve, an improvement to apply, and a better way to build solutions. I aim to keep growing consistently, respecting the process, taking on challenges, and valuing teamwork as an essential part of building solid projects.
+Com mais de 4 anos de experiência estudando programação e construindo projetos. Minha jornada começou com exercícios simples, interação com o terminal e lógica de programação, evoluindo para o desenvolvimento de APIs, integrações, organização de código, escalabilidade e sustentabilidade a longo prazo.
 
-## About Me
+Para mim, programar é uma jornada contínua de aprendizado. Sempre há um novo problema para resolver, uma melhoria para aplicar e uma forma melhor de construir soluções. Busco crescer de forma consistente, respeitando o processo, enfrentando desafios e valorizando o trabalho em equipe como parte essencial na construção de projetos sólidos.
 
-- Main focus on backend development
-- Practical experience with APIs and system integrations
-- Interest in building scalable and sustainable applications
-- Strong appreciation for clean, readable, and maintainable code
-- Continuous learning through practice, real projects, and problem-solving
+---
 
-## Stack
+### Sobre mim
 
-- Python
-- PostgreSQL
-- MySQL
-- Redis
-- FastAPI
-- Flask
-- Celery
+- Foco principal em **desenvolvimento backend**
+- Experiência prática com APIs e integrações de sistemas
+- Interesse em construir aplicações escaláveis e sustentáveis
+- Forte apreço por código limpo, legível e de fácil manutenção
+- Aprendizado contínuo através da prática, projetos reais e resolução de problemas
 
-## My Journey with Python
+---
 
-Python is the language I use the most, and it was also one of the first languages I worked with. Through it, I built my foundation in programming logic, data structures, object-oriented programming, and also explored more specific tools such as web scraping with BeautifulSoup.
+### 🛠️ Stack
 
-Throughout this process, I worked on projects with different levels of complexity, from problem-solving exercises on platforms like Codewars to more elaborate applications with greater attention to folder structure, code organization, library understanding, and the practical use of important software development concepts.
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+</div>
 
-## Featured Projects
+---
 
-### [GraphQL](https://github.com/marcosdary/graphql)
+### Minha Jornada com Python
 
-So far, this is one of the projects that brings together the most important lessons from my journey. In it, I deepened my knowledge of caching, asynchronous programming, and GraphQL.
+Python é a linguagem que mais utilizo e foi uma das primeiras com que trabalhei. Através dela construí minha base em lógica de programação, estruturas de dados, programação orientada a objetos e explorei ferramentas mais específicas, como web scraping com BeautifulSoup.
 
-GraphQL is one of the technologies that impressed me the most because of the way it structures requests and responses, allowing the client to receive exactly the data it needs. This contributes to more efficient applications and cleaner data delivery to the frontend.
+Ao longo desse caminho, desenvolvi projetos de diferentes níveis de complexidade — desde exercícios de resolução de problemas no Codewars até aplicações mais elaboradas, com atenção à estrutura de pastas, organização do código, entendimento de bibliotecas e aplicação prática de conceitos importantes de desenvolvimento de software.
 
-### [Codewars](https://github.com/marcosdary/Codewars)
+---
 
-This project represents the importance of consistent practice very well. With more than 100 code files, it shows that no beginning is easy and that growth comes from repetition, mistakes, corrections, and continuous improvement.
+### Projetos em Destaque
 
-It is one of the projects I am most proud of because it reflects discipline, persistence, and the search for increasingly organized and performant solutions.
+#### [GraphQL](https://github.com/marcosdary/graphql)
+Um dos projetos que mais reúnem aprendizados importantes da minha jornada. Nele aprofundei meus conhecimentos em caching, programação assíncrona e GraphQL.
 
-### [Coding in C](https://github.com/marcosdary/coding-in-c)
+GraphQL me impressionou pela forma como estrutura requisições e respostas, permitindo que o cliente receba exatamente os dados que precisa — tornando as aplicações mais eficientes e a entrega de dados mais limpa para o frontend.
 
-Every programmer starts somewhere, and this project is part of my foundation. It represents that early stage of building, experimenting, and learning with the C language.
+#### [Codewars](https://github.com/marcosdary/Codewars)
+Este projeto representa muito bem a importância da prática consistente. Com mais de 100 arquivos de código, mostra que nenhum começo é fácil e que o crescimento vem da repetição, dos erros, das correções e da busca por soluções cada vez mais organizadas e performáticas.
 
-### [CrudSimples](https://github.com/marcosdary/CrudSimples)
+É um dos projetos de que mais me orgulho, pois reflete disciplina, persistência e a busca por melhoria contínua.
 
-This project is focused on implementing CRUD operations (`INSERT`, `DELETE`, `UPDATE`, `GET`) using MySQL. It was an important experience for strengthening database fundamentals and building applications around essential day-to-day operations.
+#### [Coding in C](https://github.com/marcosdary/coding-in-c)
+Todo programador começa em algum lugar. Este projeto faz parte da minha base e representa aquela fase inicial de construção, experimentação e aprendizado com a linguagem C.
 
-## Professional Goals
+#### [CrudSimples](https://github.com/marcosdary/CrudSimples)
+Projeto focado na implementação de operações CRUD (`INSERT`, `DELETE`, `UPDATE`, `GET`) utilizando MySQL. Foi uma experiência importante para solidificar os fundamentos de banco de dados e construir aplicações em torno de operações essenciais do dia a dia.
 
-My focus is to keep growing through projects involving:
+---
 
-- API development
-- Integrations with other systems
-- Applications with scaling potential
-- Sustainable long-term architecture
-- Team collaboration to build robust solutions
+### Objetivos Profissionais
 
-## Portfolio
+Meu foco é continuar crescendo através de projetos que envolvam:
+- Desenvolvimento de APIs
+- Integrações com outros sistemas
+- Aplicações com potencial de escalabilidade
+- Arquitetura sustentável a longo prazo
+- Colaboração em equipe para construir soluções robustas
 
-- [View portfolio](https://marcos-wyliam.horizontecnology.com/)
+---
+
+### Portfolio
+
+- [Ver meu portfólio](https://marcos-wyliam.horizontecnology.com/)
+
+---
+
+Feito com ❤️ e muito código ☕
+
+---
+
+<!-- Estatísticas do GitHub (opcional) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosdary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
