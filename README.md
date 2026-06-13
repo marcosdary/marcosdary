@@ -42,6 +42,15 @@ API para envio de e-mail por tarefas.
 
 ---
 
+### AutoCV `API RESTFull`
+API para personalização de currículo.
+
+`Python` `Google Drive` `FastAPI` `Pytest` 
+[Ver repositório](https://github.com/marcosdary/auto_cv)
+
+
+---
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-wyliam-791b882a6)
