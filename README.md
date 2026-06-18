@@ -25,6 +25,14 @@
 
 ## Projetos
 
+### Prospex `Application`
+Aplicação para envio de e-mails personalizados e pesquisa de leads via AI.
+
+`Python` `Gmail API` `FastAPI` `Pytest` `VITE` `PostgreSQL` 
+[Ver repositório](https://github.com/marcosdary/prospex)
+
+---
+
 ### Graph API `API REST GRAPHQL`
 API de gerenciamento de tarefas com autenticação JWT,
 endpoints CRUD e cache com Redis. Deployed no Render.
@@ -47,7 +55,6 @@ API para personalização de currículo.
 
 `Python` `Google Drive` `FastAPI` `Pytest` 
 [Ver repositório](https://github.com/marcosdary/auto_cv)
-
 
 ---
 
